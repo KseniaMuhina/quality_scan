@@ -1,0 +1,11 @@
+,file_name,total_score,is_sharp,sharpness_score,is_evenly_illuminated,illumination_score,no_flare,is_left_eye_opened,is_right_eye_opened,is_rotation_acceptable,not_masked,is_neutral_emotion,is_eyes_distance_acceptable,eyes_distance,is_margins_acceptable,is_not_noisy,has_watermark,dynamic_range_score,is_dynamic_range_acceptable
+0,/home/ksenia/3divi/3_22_0/python_api/images/Elisabeth_Schumacher_0001.jpg,0.11,False,0.2,False,0.28,True,True,True,True,True,False,False,28,False,True,False,1.99,True
+1,/home/ksenia/3divi/3_22_0/python_api/images/Nora_Bendijo_0001.jpg,0.01,False,0.09,False,0.48,False,False,False,False,True,True,False,12,False,True,True,1.82,True
+2,/home/ksenia/3divi/3_22_0/python_api/images/Mahmoud_Abbas_0012.jpg,0.1,True,0.37,True,0.86,True,True,False,True,True,False,False,27,True,True,True,2.29,True
+3,/home/ksenia/3divi/3_22_0/python_api/images/Martha_Bowen_0001.jpg,0.08,False,0.16,True,0.71,True,True,True,True,True,False,False,25,True,True,False,1.99,True
+4,/home/ksenia/3divi/3_22_0/python_api/images/Jim_OBrien_0001.jpg,0.13,True,0.26,True,0.94,True,True,True,True,True,True,False,25,True,True,False,1.83,True
+5,/home/ksenia/3divi/3_22_0/python_api/images/Carlos_Beltran_0001.jpg,0.28,False,0.18,False,0.47,True,True,True,True,True,True,False,32,False,True,False,1.9,True
+6,/home/ksenia/3divi/3_22_0/python_api/images/Janica_Kostelic_0001.jpg,0.1,False,0.18,True,0.87,True,True,True,True,True,False,False,24,True,True,False,1.98,True
+7,/home/ksenia/3divi/3_22_0/python_api/images/Recep_Tayyip_Erdogan_0004.jpg,0.04,True,0.36,True,0.72,False,True,True,False,True,True,False,21,True,True,False,2.51,True
+8,/home/ksenia/3divi/3_22_0/python_api/images/Bart_Hendricks_0001.jpg,0.05,False,0.12,True,0.89,True,False,False,True,True,True,False,25,True,True,True,1.43,True
+9,/home/ksenia/3divi/3_22_0/python_api/images/Michael_Schumacher_0008.jpg,0.11,False,0.18,True,0.69,True,False,False,False,True,True,False,27,True,True,False,2.26,True
